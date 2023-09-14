@@ -1,0 +1,40 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background: #fdffcd;
+  text-align: center;
+}
+h1 {
+  font-size: 48px;
+}
+
+p {
+  font-size: 18px;
+}
+
+.site-links {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-evenly;
+  color: greenyellow;
+}
+
+.site-links a {
+  color: green;
+}
+
+.site-links a:visited {
+  color: orangered;
+}
+
+.email {
+  color: green;
+}
+
+.email:visited {
+  color: orangered;
+}
+
+.image-credit {
+  font-size: small;
+  margin-bottom: 50px;
+}
