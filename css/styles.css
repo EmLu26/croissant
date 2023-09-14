@@ -22,16 +22,8 @@ p {
   color: green;
 }
 
-.site-links a:visited {
-  color: orangered;
-}
-
 .email {
   color: green;
-}
-
-.email:visited {
-  color: orangered;
 }
 
 .image-credit {
